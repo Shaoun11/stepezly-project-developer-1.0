@@ -1,0 +1,22 @@
+.bg-gradient-custom {
+    background: linear-gradient(90deg, #FF8940 0%, #FE21D9 100%);
+    
+  }
+
+  .bg-gradient-custom:hover {
+    border: 1px solid #ada2ec;
+    color: #ada2ec;
+    background: #FFFF;
+}
+
+.hover\\:text-\\#FE5B38:hover {
+  color: #ADA2EC;
+}
+
+.active\\:text-\\#FE5B38:active {
+  color: #ADA2EC;
+}
+
+.clicked {
+  color: #ADA2EC !important;
+}
